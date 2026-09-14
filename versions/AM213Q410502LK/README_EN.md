@@ -31,7 +31,7 @@
 
 OSPTEK **2.13″ 410×502 AMOLED** is a **QSPI** color display module driven by **CO5300**, with capacitive touch (**CST820**). Suited to handheld devices, wearables, and compact portrait HMI.
 
-Spec ID (repository name): `2.13-amoled-410x502-qspi-co5300`
+Spec ID (repository name): `amoled-2.13-410x502-qspi-co5300`
 
 Current module version: **AM213Q410502LK**. Electrical and mechanical details follow [`docs/AM_213_Q410502_LK_b82450b641.pdf`](./docs/AM_213_Q410502_LK_b82450b641.pdf).
 
@@ -62,7 +62,7 @@ Current module version: **AM213Q410502LK**. Electrical and mechanical details fo
 ## Repository layout
 
 ```text
-2.13-amoled-410x502-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
+amoled-2.13-410x502-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM213Q410502LK/                                # full materials for this part number
         ├── README.md
