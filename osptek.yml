@@ -6,6 +6,7 @@ panel: amoled
 resolution: 410x502
 interface: [qspi]
 shape: rect
+corner: rounded
 
 versions:
   - id: AM213Q410502LK
