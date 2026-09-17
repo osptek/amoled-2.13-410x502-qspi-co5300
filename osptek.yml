@@ -1,0 +1,14 @@
+id: amoled-2.13-410x502-qspi-co5300
+category: displays
+
+size: "2.13"
+panel: amoled
+resolution: 410x502
+interface: [qspi]
+shape: rect
+
+versions:
+  - id: AM213Q410502LK
+    driver: CO5300
+    touch: CST820
+    note: none
